@@ -1,0 +1,10 @@
+leds[0] = 0x1a9f0f;leds[1] = 0x73bf68;leds[2] = 0x1ea213;leds[3] = 0x44a836;leds[4] = 0x8ac87f;leds[5] = 0xaad0a3;leds[6] = 0x7bd569;leds[7] = 0x64c352;leds[8] = 0x53ab46;leds[9] = 0x80c376;
+leds[19] = 0x50b342;leds[18] = 0x329625;leds[17] = 0x45a539;leds[16] = 0x469f38;leds[15] = 0x66bd56;leds[14] = 0x54ac46;leds[13] = 0x67c056;leds[12] = 0x5db24f;leds[11] = 0x9dc797;leds[10] = 0x38972c;
+leds[20] = 0x85ca79;leds[21] = 0x429a35;leds[22] = 0x050e04;leds[23] = 0x0b110a;leds[24] = 0x7cc071;leds[25] = 0x48a23a;leds[26] = 0x030e02;leds[27] = 0x111511;leds[28] = 0x9fc29a;leds[29] = 0x4ba73d;
+leds[39] = 0x67c255;leds[38] = 0x499f3c;leds[37] = 0x060f05;leds[36] = 0x0f160e;leds[35] = 0x5bab4d;leds[34] = 0x429535;leds[33] = 0x0e120d;leds[32] = 0x081008;leds[31] = 0x60b44f;leds[30] = 0x4fad41;
+leds[40] = 0x4caa3e;leds[41] = 0x7bc171;leds[42] = 0x4da240;leds[43] = 0x6ea465;leds[44] = 0x0c170b;leds[45] = 0x10160f;leds[46] = 0x8da889;leds[47] = 0x428f3a;leds[48] = 0x68bf58;leds[49] = 0x87c97c;
+leds[59] = 0x4ca640;leds[58] = 0x87c97c;leds[57] = 0x4a9f3e;leds[56] = 0x0e1a0c;leds[55] = 0x000000;leds[54] = 0x000000;leds[53] = 0x131d12;leds[52] = 0x63b653;leds[51] = 0xa4d19d;leds[50] = 0x94cd8b;
+leds[60] = 0x5fa557;leds[61] = 0x9bd590;leds[62] = 0x589950;leds[63] = 0x000301;leds[64] = 0x0b0e0b;leds[65] = 0x0a0e09;leds[66] = 0x020702;leds[67] = 0x4ca53f;leds[68] = 0x59b14c;leds[69] = 0x9fd693;
+leds[79] = 0x76ce64;leds[78] = 0x6ec85c;leds[77] = 0x6dbe5c;leds[76] = 0x172714;leds[75] = 0x74af6b;leds[74] = 0x7ab170;leds[73] = 0x122010;leds[72] = 0x34852c;leds[71] = 0x61bf4f;leds[70] = 0x69c258;
+leds[80] = 0x9dd790;leds[81] = 0x56b049;leds[82] = 0x9ad48d;leds[83] = 0x5db34e;leds[84] = 0x1ca010;leds[85] = 0x46a938;leds[86] = 0x5cb24b;leds[87] = 0x4aa73c;leds[88] = 0x6fca5e;leds[89] = 0x4cab3d;
+leds[99] = 0x8aca80;leds[98] = 0x5eba50;leds[97] = 0x86c67c;leds[96] = 0x3e9636;leds[95] = 0x089500;leds[94] = 0x149c08;leds[93] = 0x5ebf4d;leds[92] = 0x4fab41;leds[91] = 0x81c676;leds[90] = 0x5ab74c;
