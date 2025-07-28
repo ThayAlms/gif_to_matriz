@@ -1,4 +1,4 @@
-<h2>🧩 gif2led_matrix</h2>
+<h2>🧩 gif2led_matriz</h2>
 
 <p><strong>Scripts em Python para converter GIFs animados ou imagens em <code>matrizes 10x10</code> de cores, ideais para displays de LED (como WS2812/NeoPixel) ou outros sistemas visuais com microcontroladores.</strong></p>
 
