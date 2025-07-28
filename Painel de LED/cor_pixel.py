@@ -37,7 +37,7 @@ with open(output_path, 'w') as file:
                 x = j * column + (column - i) - 1
             else:
                 x = n
-            file.write(f"leds[{x}] = 0x{string[1:]};")
+            file.write(f" 0x{string[1:]};")
             n += 1
         file.write("\n")
 
